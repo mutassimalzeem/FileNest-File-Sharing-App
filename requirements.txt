@@ -1,0 +1,16 @@
+# Core requirements
+tkinter>=8.6
+tkinterdnd2>=0.3.0
+Pillow>=9.0.0
+pyqrcode>=0.13.1
+pypng>=0.20220715.0
+
+# Built-in modules (included for clarity, not actually needed in requirements.txt)
+# os
+# socket
+# threading
+# json
+# shutil
+# http.server
+# socketserver
+# webbrowser
