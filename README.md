@@ -2,7 +2,9 @@
 
 A simple yet powerful desktop application for easy local file sharing using QR codes. Built with Python and Tkinter.
 
-![File Sharing App Screenshot](screenshots/app_screenshot.png) <!-- Add your screenshot file when available -->
+![image](https://github.com/user-attachments/assets/ddba9605-8b06-476a-995c-1d8a543c0db2) ![image](https://github.com/user-attachments/assets/f8e7a057-c2c8-431b-96f7-2771a526b8fe)
+
+
 
 ## Features
 
@@ -33,8 +35,8 @@ A simple yet powerful desktop application for easy local file sharing using QR c
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/file-sharing-app.git
-   cd file-sharing-app
+   git clone https://github.com/mutassimalzeem/FileNest-File-Sharing-App.git
+   cd FileNest-file-sharing-app
    ```
 
 2. Install required dependencies:
@@ -44,7 +46,7 @@ A simple yet powerful desktop application for easy local file sharing using QR c
 
 3. Run the application:
    ```bash
-   python app.py
+   python FileNest-File-Sharing-App.py
    ```
 
 ## Usage
@@ -88,8 +90,21 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Future Enhancements
 
-- Password protection for shared files
-- Ability to manage which files are being shared
-- File transfer progress indication
-- Cross-platform functionality testing
-- Mobile companion app
+1. Password protection for sensitive files
+2. Expiration settings for shared content (auto-delete after X time)
+3. File size limitations clearly stated
+4. Ability to revoke access to previously shared files
+5. Encryption for sensitive data
+6. User stats (how many times a file was downloaded)
+7. Notification when someone accesses my shared files
+8. Mobile app companion (not just browser access via QR)
+9. Ability to share with specific people (email or generate unique links)
+10. Custom branding options for businesses
+11. File versioning (keep track of changes)
+12. Integration with cloud storage (Google Drive, Dropbox, etc.)
+13. Bandwidth throttling options for large files
+14. Offline mode with sync when back online
+15. Group sharing capabilities
+
+Contact:
+mail: mutassimalshahriar@gmail.com
